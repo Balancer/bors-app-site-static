@@ -23,6 +23,7 @@
 
 	"require": {
 		"balancer/bors-core": "*",
+		"symfony/yaml": "*",
 		"bors/composer-plugin": "*"
 	},
 
